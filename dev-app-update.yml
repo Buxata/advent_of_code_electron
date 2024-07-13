@@ -1,0 +1,3 @@
+provider: generic
+url: https://example.com/auto-updates
+updaterCacheDirName: advent_of_code-updater
